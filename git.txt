@@ -1,0 +1,59 @@
+นี่คือสรุปคำสั่ง Git ที่ใช้บ่อยบน command line จัดเป็นหมวดหมู่ให้ง่ายต่อการจำครับ  
+
+---
+
+## 🔧 เริ่มต้นใช้งาน
+- `git init` → สร้าง repository ใหม่ในโฟลเดอร์ปัจจุบัน  
+- `git clone <url>` → ดาวน์โหลด repository จาก remote  
+
+---
+
+## 📂 การจัดการไฟล์
+- `git status` → ตรวจสอบสถานะไฟล์ที่เปลี่ยนแปลง  
+- `git add <file>` → เพิ่มไฟล์เข้าสู่ staging area  
+- `git add .` → เพิ่มไฟล์ทั้งหมดที่เปลี่ยนแปลง  
+- `git rm <file>` → ลบไฟล์ออกจาก repository  
+
+---
+
+## 📝 Commit
+- `git commit -m "ข้อความ"` → บันทึกการเปลี่ยนแปลงพร้อมข้อความ  
+- `git commit -am "ข้อความ"` → เพิ่มและ commit ไฟล์ที่แก้ไขแล้ว (ข้ามขั้นตอน `git add`)  
+
+---
+
+## 🔄 Branch
+- `git branch` → แสดงรายชื่อ branch  
+- `git branch <ชื่อ>` → สร้าง branch ใหม่  
+- `git checkout <ชื่อ>` → สลับไป branch ที่ต้องการ  
+- `git checkout -b <ชื่อ>` → สร้างและสลับไป branch ใหม่ทันที  
+- `git merge <branch>` → รวม branch เข้ากับ branch ปัจจุบัน  
+
+---
+
+## 🌐 Remote
+- `git remote -v` → แสดง remote ที่เชื่อมอยู่  
+- `git remote add origin <url>` → เพิ่ม remote repository  
+- `git push origin <branch>` → ส่ง commit ไปยัง remote  
+- `git pull origin <branch>` → ดึง commit ล่าสุดจาก remote  
+
+---
+
+## 📜 การดูประวัติ
+- `git log` → ดูประวัติ commit  
+- `git log --oneline` → ดูประวัติแบบย่อ  
+- `git diff` → ดูรายละเอียดการเปลี่ยนแปลงที่ยังไม่ได้ commit  
+- `git show <commit>` → แสดงรายละเอียด commit  
+
+---
+
+## 🛠️ การย้อนกลับ
+- `git reset --hard <commit>` → ย้อน repository ไปยัง commit ที่เลือก (ลบการเปลี่ยนแปลง)  
+- `git revert <commit>` → สร้าง commit ใหม่เพื่อย้อนการเปลี่ยนแปลงของ commit ที่เลือก  
+
+---
+
+👉 ถ้าอยากได้ **cheatsheet แบบย่อ** ที่รวมคำสั่งสำคัญที่สุด ผมสามารถทำตารางสรุปให้คุณได้เลย คุณอยากให้ผมทำเป็นตารางเปรียบเทียบ (คำสั่ง + คำอธิบายสั้น ๆ) ไว้ใช้เป็นคู่มือเร็ว ๆ ไหมครับ?
+
+
+ok
