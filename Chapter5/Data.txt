@@ -1,0 +1,174 @@
+Order_ID,Date,Product_Category,Amount,Region,Customer_Type,Status
+1001,2024-01-01,Electronics,12500,North,Member,Completed
+1002,2024-01-01,Home & Garden,4500,South,General,Pending
+1003,2024-01-02,Clothing,1200,East,Member,Completed
+1004,2024-01-02,Food & Beverage,850,West,General,Completed
+1005,2024-01-03,Electronics,25000,Central,Member,Cancelled
+1006,2024-01-03,Home & Garden,3200,North,General,Completed
+1007,2024-01-04,Clothing,2100,South,Member,Completed
+1008,2024-01-04,Food & Beverage,450,East,General,Pending
+1009,2024-01-05,Electronics,15800,West,Member,Completed
+1010,2024-01-05,Home & Garden,1200,Central,General,Completed
+1011,2024-01-06,Clothing,3500,North,Member,Completed
+1012,2024-01-06,Food & Beverage,920,South,General,Completed
+1013,2024-01-07,Electronics,42000,East,Member,Completed
+1014,2024-01-07,Home & Garden,5600,West,General,Pending
+1015,2024-01-08,Clothing,1800,Central,Member,Completed
+1016,2024-01-08,Food & Beverage,300,North,General,Completed
+1017,2024-01-09,Electronics,8900,South,Member,Completed
+1018,2024-01-09,Home & Garden,7200,East,General,Completed
+1019,2024-01-10,Clothing,2500,West,Member,Cancelled
+1020,2024-01-10,Food & Beverage,1500,Central,General,Completed
+1021,2024-01-11,Electronics,11000,North,Member,Completed
+1022,2024-01-11,Home & Garden,2300,South,General,Completed
+1023,2024-01-12,Clothing,4200,East,Member,Pending
+1024,2024-01-12,Food & Beverage,670,West,General,Completed
+1025,2024-01-13,Electronics,19500,Central,Member,Completed
+1026,2024-01-13,Home & Garden,890,North,General,Completed
+1027,2024-01-14,Clothing,3300,South,Member,Completed
+1028,2024-01-14,Food & Beverage,2100,East,General,Completed
+1029,2024-01-15,Electronics,5400,West,Member,Completed
+1030,2024-01-15,Home & Garden,1500,Central,General,Pending
+1031,2024-01-16,Clothing,2900,North,Member,Completed
+1032,2024-01-16,Food & Beverage,1100,South,General,Completed
+1033,2024-01-17,Electronics,31000,East,Member,Completed
+1034,2024-01-17,Home & Garden,4200,West,General,Completed
+1035,2024-01-18,Clothing,1200,Central,Member,Cancelled
+1036,2024-01-18,Food & Beverage,550,North,General,Completed
+1037,2024-01-19,Electronics,14500,South,Member,Completed
+1038,2024-01-19,Home & Garden,6300,East,General,Completed
+1039,2024-01-20,Clothing,2700,West,Member,Pending
+1040,2024-01-20,Food & Beverage,1800,Central,General,Completed
+1041,2024-01-21,Electronics,9800,North,Member,Completed
+1042,2024-01-21,Home & Garden,3400,South,General,Completed
+1043,2024-01-22,Clothing,4500,East,Member,Completed
+1044,2024-01-22,Food & Beverage,250,West,General,Completed
+1045,2024-01-23,Electronics,21000,Central,Member,Completed
+1046,2024-01-23,Home & Garden,1250,North,General,Pending
+1047,2024-01-24,Clothing,3600,South,Member,Completed
+1048,2024-01-24,Food & Beverage,890,East,General,Completed
+1049,2024-01-25,Electronics,16500,West,Member,Completed
+1050,2024-01-25,Home & Garden,5200,Central,General,Completed
+1051,2024-01-26,Clothing,1500,North,Member,Completed
+1052,2024-01-26,Food & Beverage,720,South,General,Cancelled
+1053,2024-01-27,Electronics,34000,East,Member,Completed
+1054,2024-01-27,Home & Garden,2900,West,General,Completed
+1055,2024-01-28,Clothing,2200,Central,Member,Completed
+1056,2024-01-28,Food & Beverage,1100,North,General,Pending
+1057,2024-01-29,Electronics,12000,South,Member,Completed
+1058,2024-01-29,Home & Garden,4800,East,General,Completed
+1059,2024-01-30,Clothing,3100,West,Member,Completed
+1060,2024-01-30,Food & Beverage,1950,Central,General,Completed
+1061,2024-01-31,Electronics,27500,North,Member,Completed
+1062,2024-01-31,Home & Garden,1800,South,General,Completed
+1063,2024-02-01,Clothing,1250,East,Member,Completed
+1064,2024-02-01,Food & Beverage,450,West,General,Pending
+1065,2024-02-02,Electronics,1200,Central,Member,Completed
+1066,2024-02-02,Home & Garden,850,North,General,Completed
+1067,2024-02-03,Clothing,25000,South,Member,Cancelled
+1068,2024-02-03,Food & Beverage,3200,East,General,Completed
+1069,2024-02-04,Electronics,2100,West,Member,Completed
+1070,2024-02-04,Home & Garden,450,Central,General,Pending
+1071,2024-02-05,Clothing,15800,North,Member,Completed
+1072,2024-02-05,Food & Beverage,1200,South,General,Completed
+1073,2024-02-06,Electronics,3500,East,Member,Completed
+1074,2024-02-06,Home & Garden,920,West,General,Completed
+1075,2024-02-07,Clothing,42000,Central,Member,Completed
+1076,2024-02-07,Food & Beverage,5600,North,General,Pending
+1077,2024-02-08,Electronics,1800,South,Member,Completed
+1078,2024-02-08,Home & Garden,300,East,General,Completed
+1079,2024-02-09,Clothing,8900,West,Member,Completed
+1080,2024-02-09,Food & Beverage,7200,Central,General,Completed
+1081,2024-02-10,Electronics,2500,North,Member,Cancelled
+1082,2024-02-10,Home & Garden,1500,South,General,Completed
+1083,2024-02-11,Clothing,11000,East,Member,Completed
+1084,2024-02-11,Food & Beverage,2300,West,General,Completed
+1085,2024-02-12,Electronics,4200,Central,Member,Pending
+1086,2024-02-12,Home & Garden,670,North,General,Completed
+1087,2024-02-13,Clothing,19500,South,Member,Completed
+1088,2024-02-13,Food & Beverage,890,East,General,Completed
+1089,2024-02-14,Electronics,3300,West,Member,Completed
+1090,2024-02-14,Home & Garden,2100,Central,General,Completed
+1091,2024-02-15,Clothing,5400,North,Member,Completed
+1092,2024-02-15,Food & Beverage,1500,South,General,Pending
+1093,2024-02-16,Electronics,2900,East,Member,Completed
+1094,2024-02-16,Home & Garden,1100,West,General,Completed
+1095,2024-02-17,Clothing,31000,Central,Member,Completed
+1096,2024-02-17,Food & Beverage,4200,North,General,Completed
+1097,2024-02-18,Electronics,1200,South,Member,Cancelled
+1098,2024-02-18,Home & Garden,550,East,General,Completed
+1099,2024-02-19,Clothing,14500,West,Member,Completed
+1100,2024-02-19,Food & Beverage,6300,Central,General,Completed
+1101,2024-02-20,Electronics,2700,North,Member,Pending
+1102,2024-02-20,Home & Garden,1800,South,General,Completed
+1103,2024-02-21,Clothing,9800,East,Member,Completed
+1104,2024-02-21,Food & Beverage,3400,West,General,Completed
+1105,2024-02-22,Electronics,4500,Central,Member,Completed
+1106,2024-02-22,Home & Garden,250,North,General,Completed
+1107,2024-02-23,Clothing,21000,South,Member,Completed
+1108,2024-02-23,Food & Beverage,1250,East,General,Pending
+1109,2024-02-24,Electronics,3600,West,Member,Completed
+1110,2024-02-24,Home & Garden,890,Central,General,Completed
+1111,2024-02-25,Clothing,16500,North,Member,Completed
+1112,2024-02-25,Food & Beverage,5200,South,General,Completed
+1113,2024-02-26,Electronics,1500,East,Member,Completed
+1114,2024-02-26,Home & Garden,720,West,General,Cancelled
+1115,2024-02-27,Clothing,34000,Central,Member,Completed
+1116,2024-02-27,Food & Beverage,2900,North,General,Completed
+1117,2024-02-28,Electronics,2200,South,Member,Completed
+1118,2024-02-28,Home & Garden,1100,East,General,Pending
+1119,2024-02-29,Clothing,12000,West,Member,Completed
+1120,2024-02-29,Food & Beverage,4800,Central,General,Completed
+1121,2024-03-01,Electronics,3100,North,Member,Completed
+1122,2024-03-01,Home & Garden,1950,South,General,Completed
+1123,2024-03-02,Clothing,27500,East,Member,Completed
+1124,2024-03-02,Food & Beverage,1800,West,General,Completed
+1125,2024-03-03,Electronics,1250,Central,Member,Completed
+1126,2024-03-03,Home & Garden,450,North,General,Pending
+1127,2024-03-04,Clothing,1200,South,Member,Completed
+1128,2024-03-04,Food & Beverage,850,East,General,Completed
+1129,2024-03-05,Electronics,25000,West,Member,Cancelled
+1130,2024-03-05,Home & Garden,3200,Central,General,Completed
+1131,2024-03-06,Clothing,2100,North,Member,Completed
+1132,2024-03-06,Food & Beverage,450,South,General,Pending
+1133,2024-03-07,Electronics,15800,East,Member,Completed
+1134,2024-03-07,Home & Garden,1200,West,General,Completed
+1135,2024-03-08,Clothing,3500,Central,Member,Completed
+1136,2024-03-08,Food & Beverage,920,North,General,Completed
+1137,2024-03-09,Electronics,42000,South,Member,Completed
+1138,2024-03-09,Home & Garden,5600,East,General,Pending
+1139,2024-03-10,Clothing,1800,West,Member,Completed
+1140,2024-03-10,Food & Beverage,300,Central,General,Completed
+1141,2024-03-11,Electronics,8900,North,Member,Completed
+1142,2024-03-11,Home & Garden,7200,South,General,Completed
+1143,2024-03-12,Clothing,2500,East,Member,Cancelled
+1144,2024-03-12,Food & Beverage,1500,West,General,Completed
+1145,2024-03-13,Electronics,11000,Central,Member,Completed
+1146,2024-03-13,Home & Garden,2300,North,General,Completed
+1147,2024-03-14,Clothing,4200,South,Member,Pending
+1148,2024-03-14,Food & Beverage,670,East,General,Completed
+1149,2024-03-15,Electronics,19500,West,Member,Completed
+1150,2024-03-15,Home & Garden,890,Central,General,Completed
+1151,2024-03-16,Clothing,3300,North,Member,Completed
+1152,2024-03-16,Food & Beverage,2100,South,General,Completed
+1153,2024-03-17,Electronics,5400,East,Member,Completed
+1154,2024-03-17,Home & Garden,1500,West,General,Pending
+1155,2024-03-18,Clothing,2900,Central,Member,Completed
+1156,2024-03-18,Food & Beverage,1100,North,General,Completed
+1157,2024-03-19,Electronics,31000,South,Member,Completed
+1158,2024-03-19,Home & Garden,4200,East,General,Completed
+1159,2024-03-20,Clothing,1200,West,Member,Cancelled
+1160,2024-03-20,Food & Beverage,550,Central,General,Completed
+1161,2024-03-21,Electronics,14500,North,Member,Completed
+1162,2024-03-21,Home & Garden,6300,South,General,Completed
+1163,2024-03-22,Clothing,2700,East,Member,Pending
+1164,2024-03-22,Food & Beverage,1800,West,General,Completed
+1165,2024-03-23,Electronics,9800,Central,Member,Completed
+1166,2024-03-23,Home & Garden,3400,North,General,Completed
+1167,2024-03-24,Clothing,4500,South,Member,Completed
+1168,2024-03-24,Food & Beverage,250,East,General,Completed
+1169,2024-03-25,Electronics,21000,West,Member,Completed
+1170,2024-03-25,Home & Garden,1250,Central,General,Pending
+1171,2024-03-26,Clothing,3600,North,Member,Completed
+1172,2024-03-26,Food & Beverage,890,South,General,Completed
+1173,2024-03-27,Electronics,1
